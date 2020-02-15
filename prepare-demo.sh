@@ -42,5 +42,5 @@ npm run build
 echo "=== API -- Add the following to your API's .env's APP_KEY variable ==="
 php -r "echo md5(uniqid()).\"\n\";"
 echo "=== API -- Configure your database and add your credentials to the .env ==="
-echo "=== Client -- Configure your API endpoint in the .env's AUTH_API variable ==="
+echo "=== Client -- Configure your API endpoint in the .env's AUTH_API variable, by default it should be: http:localhost:8000/ ==="
 echo "=== General -- After migrations and server start, view your clien't front-end!! ==="

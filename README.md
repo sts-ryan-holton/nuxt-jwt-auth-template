@@ -9,7 +9,7 @@ A quick, simple template to get up and running with authentication using Laravel
 
 ``` bash
 # prepare the project
-$ ./prepare-demo.sh
+$ sudo ./prepare-demo.sh
 ```
 
 ### API
@@ -19,7 +19,7 @@ $ ./prepare-demo.sh
 
 ``` bash
 # generate tables
-$ php artisan migrate
+$ cd api && php artisan migrate
 ```
 
 ### Launch the demo!
