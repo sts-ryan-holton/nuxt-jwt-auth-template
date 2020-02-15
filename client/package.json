@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-laravel-auth-template",
+  "name": "nuxt-jwt-auth-template",
   "version": "1.0.0",
-  "description": "A simple auth template integrated with Laravel Lumen",
+  "description": "Nuxt JS + Laravel Lumen JWT auth template",
   "author": "Ryan Holton",
   "private": true,
   "scripts": {
@@ -12,11 +12,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "@nuxtjs/auth": "^4.8.5",
-    "@nuxtjs/axios": "^5.9.5",
-    "@nuxtjs/bulma": "^1.2.1",
-    "@nuxtjs/pwa": "^3.0.0-0",
-    "nuxt": "^2.0.0"
+    "@nuxtjs/auth": "4.8.5",
+    "@nuxtjs/axios": "5.9.5",
+    "@nuxtjs/bulma": "1.2.6",
+    "@nuxtjs/pwa": "3.0.0-beta.20",
+    "nuxt": "2.11.0"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.27",
