@@ -11,6 +11,7 @@ A quick, simple template to get up and running with authentication using Laravel
 # prepare the project
 $ sudo ./prepare-demo.sh
 ```
+3. When prompted, add your App Key & setup your database credentials for the API!
 
 ### API
 
