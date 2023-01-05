@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "5.9.5",
     "@nuxtjs/bulma": "1.2.6",
     "@nuxtjs/pwa": "3.0.0-beta.20",
-    "nuxt": "2.11.0"
+    "nuxt": "2.15.8"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
